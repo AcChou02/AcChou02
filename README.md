@@ -2,7 +2,7 @@
 - 🦆 I’m interested in cute ducks
 - 🌱 I’m currently learning data science stuff
 - 💞️ I’m looking to collaborate on anything cool
-- 📫 How to reach me: email andrewbird0511@gmail.com
+- 📫 How to reach me: email a.c@u.nus.edu
 
 <!---
 AcChou02/AcChou02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
