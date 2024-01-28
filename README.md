@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AcChou02
-- 🎉 My goal for 2022: land an internship
-- 🌱 I’m currently learning data science stuff
+- 🎉 My goal for 2024: graduate with FCH
+- 🌱 I’m currently studying for FRM Exam Part 2
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me: email a.c@u.nus.edu
 
